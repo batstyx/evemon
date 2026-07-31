@@ -29,66 +29,66 @@
   <datafiles>
     <datafile>
       <name>eve-blueprints-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>e48b62ba4a04bb5407759f673125414f</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 blueprints data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>25a27382067a8db684fde6d10958f4f3</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 blueprints data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
     <datafile>
       <name>eve-certificates-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>68bd3e4d37f6beeae9fc21194cdbdfaa</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 certificates data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>a3ba391840d18fa94295f409979369f3</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 certificates data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
     <datafile>
       <name>eve-geography-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>96ef36f6111df193852530e5b1f6494e</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 geography data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>ff1fc870d4948e0302e12c5a0c94fca3</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 geography data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
     <datafile>
       <name>eve-items-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>71cd68d28d918f04efb2523bb78fb7f5</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 items data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>38a43dca9d17971024457ac472090044</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 items data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
     <datafile>
       <name>eve-masteries-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>b6da9282c3887fb0ea094fcb3e926890</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 masteries data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>d90a87970f30775b8b6d58f8b6002688</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 masteries data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
     <datafile>
       <name>eve-properties-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>972378544b4d0940f5e1df97f57b7f7f</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 properties data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>066b5083d6b1f99893649bf32ff95472</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 properties data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
     <datafile>
       <name>eve-reprocessing-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>dea2ebc9ce021b2baf3cedeb5f67928f</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 reprocessing data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>dcccef0bc1f94bf6cf4d24a1f2809fda</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 reprocessing data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
     <datafile>
       <name>eve-skills-en-US.xml.gzip</name>
-      <date>04 June 2026</date>
-      <md5>11ea76643bd9051f3ca178493878e948</md5>
-      <url>https://github.com/mgoeppner/evemon/releases/download/sde-3374020</url>
-      <message><![CDATA[SDE 3374020 skills data file by the EVEMon Development Team
+      <date>31 July 2026</date>
+      <md5>b28df0264efcc251116453a719f96548</md5>
+      <url>https://github.com/batstyx/evemon/releases/download/sde-3453885</url>
+      <message><![CDATA[SDE 3453885 skills data file by the EVEMon Development Team
 NOT COMPATIBLE with EVEMon prior to version 2.2.0]]></message>
     </datafile>
   </datafiles>
